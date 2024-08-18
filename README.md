@@ -8,11 +8,12 @@
 ```ts
 chalk: "^4.1.0" //IT MUST BE THIS VERSION!
 dotenv: "" //use latest
+axios: "" //use lates
 ```
 
 ## Command:
 ```bash
-npm install chalk@4.1.0 dotenv
+npm install chalk@4.1.0 dotenv axios
 ```
 
 ## .env Variables:
